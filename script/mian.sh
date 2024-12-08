@@ -1,19 +1,11 @@
 #!/bin/sh
 
 # 下载规则
-curl -o i-1.txt https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
-curl -o i-2.txt https://filters.adtidy.org/android/filters/224_optimized.txt
-curl -o i-3.txt https://raw.githubusercontent.com/damengzhu/abpmerge/main/EasyListnoElementRules.txt
-curl -o i-4.txt https://filters.adtidy.org/android/filters/20_optimized.txt
-curl -o i-5.txt https://raw.githubusercontent.com/lingeringsound/adblock_auto/main/base/%E5%85%B6%E4%BB%96.prop
-curl -o i-6.txt https://raw.githubusercontent.com/lingeringsound/adblock_auto/main/base/%E5%8F%8DAdblock.prop
-curl -o i-7.txt https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
-curl -o i-8.txt https://easylist-downloads.adblockplus.org/easylistchina.txt
-curl -o i-9.txt https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
+curl -o i-1.txt https://filters.adtidy.org/ios/filters/2_optimized.txt
 
 # 合并规则并去除重复项
 cat i*.txt > i-mergd.txt
-cat i-mergd.txt | grep -v '^!' | grep -v '^！' | grep -v '^# ' | grep -v '^# ' | grep -v '^\[' | grep -v '^\【' > i-tmpp.txt
+cat i-mergd.txt | grep -v '^!' | grep -v '^！' | grep -v '^# ' | grep -v '##' | grep -v '#@#' | grep -v '^\【' > i-tmpp.txt
 sort -n i-tmpp.txt | uniq > i-tmp.txt
 
 python rule.py i-tmp.txt
@@ -30,21 +22,11 @@ echo "! Version: `TZ=UTC-8 date +"%Y-%m-%d %H:%M:%S"`" >> i-tpdate.txt
 echo "! Total count: $num" >> i-tpdate.txt
 cat i-tpdate.txt i-tmp.txt > abpmerge.txt
 
-cat "abpmerge.txt" | grep \
--e "\(^\|\w\)#@\?#" \
--e "\(^\|\w\)#@\??#" \
--e "\(^\|\w\)#@\?\$#" \
--e "\(^\|\w\)#@\?\$?#" \
-> "CSSRule.txt"
-
-# 从 https://filters.adtidy.org/android/filters/2_optimized.txt 下载规则文件
-# 移除包含 # 或 generichide 的行，然后生成 easylistnocssrule.txt 的修改版本到当前工作目录。
-
 # 获取规则文件并将其存储在内存中
-EASYLIST=$(wget -q -O - https://filters.adtidy.org/android/filters/2_optimized.txt)
+EASYLIST=$(wget -q -O - https://raw.githubusercontent.com/fhvvbvn/Anti-CSS/refs/heads/main/abpmerge.txt)
 
 # 移除包含 # 或 generichide 的行
-echo "$EASYLIST" | grep -v "#" | grep -v "generichide" > EasyListnoElementRules.txt
+echo "$EASYLIST" | grep -v "##" | grep -v "#@#" | grep -v "generichide" | grep -v "@@" > Anti-CSS.txt
 
 # 将 EasyListnoElementRules.txt 复制到存储库中
 cp EasyListnoElementRules.txt /path/to/repository/
