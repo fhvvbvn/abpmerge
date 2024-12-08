@@ -2,8 +2,8 @@
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，AdGuard移动横幅广告过滤器，10007自用规则，EasyList no Element Rules，EasylistChina，CJX'sAnnoyance，Adblock Warning Removal List
 ! Homepage: https://github.com/damengzhu/abpmerge
-! Version: 2024-12-08 23:26:50
-! Total count: 27281
+! Version: 2024-12-09 04:14:21
+! Total count: 27280
 #$#.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links { display: block !important; }
 #$#div[class*=" "][style^="width: 1px; height: 1px; position: absolute; left: -10000px; top: -"] { display: block !important; }
 #$#div[class="adsbygoogle"][id="ad-detector"] { display: block !important; }
@@ -579,7 +579,6 @@ $xmlhttprequest,third-party,domain=swiftload.io
 /adblock_detector2.$script
 /adblock_logger.$script
 /adblockdetect.js$script
-/adbuddy.$domain=~adbuddy.be|~adbuddy.beeldstudio.be
 /adcgi?
 /adchoice.png$image
 /adclick.$popup
