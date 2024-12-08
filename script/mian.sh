@@ -20,17 +20,7 @@ echo "! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，Ad
 echo "! Homepage: https://github.com/damengzhu/abpmerge" >> i-tpdate.txt
 echo "! Version: `TZ=UTC-8 date +"%Y-%m-%d %H:%M:%S"`" >> i-tpdate.txt
 echo "! Total count: $num" >> i-tpdate.txt
-cat i-tpdate.txt i-tmp.txt > abpmerge.txt
-
-# 获取规则文件并将其存储在内存中
-EASYLIST=$(wget -q -O - https://raw.githubusercontent.com/fhvvbvn/Anti-CSS/refs/heads/main/abpmerge.txt)
-
-# 移除包含 # 或 generichide 的行
-echo "$EASYLIST" | grep -v "##" | grep -v "#@#" | grep -v "generichide" | grep -v "@@" > Anti-CSS.txt
-
-# 将 EasyListnoElementRules.txt 复制到存储库中
-cp EasyListnoElementRules.txt /path/to/repository/
-
+cat i-tpdate.txt i-tmp.txt > Anti-CSS.txt
 
 # 删除缓存
 rm i-*.txt
