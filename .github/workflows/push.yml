@@ -18,3 +18,13 @@ jobs:
       - name: Update Rules
         run: |
           bash ./script/mian.sh
+      - name: Commit Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: ${{ steps.update.outputs.message }}
+          
+      - name: Delete workflow runs
+        uses: Mattraks/delete-workflow-runs@main
+        with:
+          retain_days: 1
+          keep_minimum_runs: 5
