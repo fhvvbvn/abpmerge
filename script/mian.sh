@@ -27,8 +27,7 @@ cat "abpmerge.txt" | grep \
 -e "^#" \
 -e "#%#" \
 -e "#@#" \
--e "^/" \
--e "^?" \
+-e "/" \
 > "CSSRule.txt"
 
 
