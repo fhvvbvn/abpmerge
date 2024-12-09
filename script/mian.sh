@@ -2,7 +2,8 @@
 
 # 下载规则
 curl -o i-1.txt https://filters.adtidy.org/ios/filters/122_optimized.txt
-curl -o i-1.txt https://filters.adtidy.org/ios/filters/2_optimized.txt
+curl -o i-2.txt https://filters.adtidy.org/ios/filters/2_optimized.txt
+curl -o i-3.txt https://filters.adtidy.org/extension/ublock/filters/14.txt
 
 # 合并规则并去除重复项
 cat i*.txt > i-mergd.txt
@@ -28,7 +29,7 @@ cat "abpmerge.txt" | grep \
 -e "#%#" \
 -e "#@#" \
 -e "/" \
-> "CSSRule.txt"
+> "Optimized.txt"
 
 
 # 删除缓存
