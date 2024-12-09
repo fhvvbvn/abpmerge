@@ -33,7 +33,11 @@ cat "abpmerge.txt" | grep \
 -e "/" \
 -e "##+js" \
 > "Optimized.txt"
-
+cat "abpmerge.txt" | grep \
+-e "#%#" \
+-e "scriptlet" \
+-e "##+js" \
+> "scriptlet.txt"
 
 # 删除缓存
 rm i-*.txt
