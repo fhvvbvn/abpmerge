@@ -25,11 +25,12 @@ cat i-tpdate.txt i-tmp.txt > abpmerge.txt
 
 cat "abpmerge.txt" | grep \
 -e "^#" \
+-e "#%#" \
+-e "#@#" \
+-e "^/" \
+-e "^?" \
+-e "^\" \
 > "CSSRule.txt"
-cat "abpmerge.txt" | grep \
--v "##" \
--v "#@#" \
-> "Anti-CSSRule.txt"
 
 
 # 删除缓存
