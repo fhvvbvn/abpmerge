@@ -18,14 +18,3 @@ jobs:
       - name: Update Rules
         run: |
           bash ./script/mian.sh
-      - name: Git push assets to Github
-        run: |
-          git init
-          git config --local user.name "damengzhu"
-          git config --local user.email "1985980570@qq.com"
-          git branch -m main
-          git add .
-          git commit -m "Updated at $(date)"
-          #git remote add origin "https://${{ secrets.CODING_TokenUser }}:${{ secrets.CODING_Token }}@e.coding.net/damengzhu/banad/banad.git"
-          git fetch --unshallow origin
-          git push -u -f origin main
