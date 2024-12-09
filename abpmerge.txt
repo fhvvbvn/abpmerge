@@ -2,8 +2,8 @@
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，AdGuard移动横幅广告过滤器，10007自用规则，EasyList no Element Rules，EasylistChina，CJX'sAnnoyance，Adblock Warning Removal List
 ! Homepage: https://github.com/damengzhu/abpmerge
-! Version: 2024-12-09 18:52:58
-! Total count: 43331
+! Version: 2024-12-09 19:04:18
+! Total count: 43333
 ###AC_ad
 ###AD_G
 ###AD_L
@@ -5512,7 +5512,6 @@ $xmlhttprequest,third-party,domain=swiftload.io
 /adsadclient
 /adsbanner-$image
 /adsbanner/*$image
-/adsbox.$~script,domain=~adsbox.com.sg
 /adscontroller.js$script
 /adscroll.js$script
 /adserv.$script
@@ -5534,7 +5533,7 @@ $xmlhttprequest,third-party,domain=swiftload.io
 /adtech;
 /adtools.js$script
 /adtrack.$domain=~adtrack.ca|~adtrack.yacast.fr
-/adultdvdparadisecompopinsecound.js
+/adultdvdparadisecompopinsecound.js$script
 /adunit/track-view|
 /adutil.js$script
 /adv-banner-$image
@@ -6033,7 +6032,7 @@ $xmlhttprequest,third-party,domain=swiftload.io
 /vast.js$domain=noodlemagazine.com|mat6tube.com
 /vendors~ads.
 /video_ads.$script
-/videoad.$domain=~videoad.in
+/videoad.$~xmlhttprequest,domain=~videoad.in
 /videoads/*$~xmlhttprequest
 /videojs.ads-$script,stylesheet
 /videojs.sda.js$script
@@ -15052,6 +15051,8 @@ christianitytoday.com##.ct-ad-slot
 christianpost.com##.acw
 chrome-stats.com##.chrome-stats_com_billboard
 chrome-stats.com##div[id*="billboard_responsive"]
+chromeactions.com##div > header ~ :is(div, h1) + div:has(> div .adsbygoogle[data-ad-client])
+chromeactions.com##div:has(> .adsbygoogle[data-ad-client])
 chromeactions.com##ins:not([class],[id])
 chromeactions.com#$#body > div { margin-top: 0px !important; }
 chromeactions.com#$#body { margin-top: 0px !important; }
@@ -26364,6 +26365,7 @@ thedenverchannel.com##.container--ad
 thedigestweb.com#@#.c-ad-banner
 thediplomat.com##.td-ad-container--labeled
 thediplomat.com##[class*="td-ad"]
+thedirect.com##.mv-ad-box
 thedriven.io###solarchoice_banner_1
 theepochtimes.com##.bg-\[\#f8f8f8\]
 theepochtimes.com##.eet-ad
