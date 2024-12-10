@@ -28,13 +28,9 @@ cat i-tpdate.txt i-tmp.txt > abpmerge.txt
 
 cat "abpmerge.txt" | grep \
 -e "^#" \
--e "#%#" \
 -e "#@#" \
--e "/" \
--e "##+js" \
-> "Optimized.txt"
+> "CSS.txt"
 cat "abpmerge.txt" | grep \
--e "#%#" \
 -e "scriptlet" \
 -e "##+js" \
 > "scriptlet.txt"
