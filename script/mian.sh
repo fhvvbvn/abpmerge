@@ -26,16 +26,6 @@ echo "! Version: `TZ=UTC-8 date +"%Y-%m-%d %H:%M:%S"`" >> i-tpdate.txt
 echo "! Total count: $num" >> i-tpdate.txt
 cat i-tpdate.txt i-tmp.txt > abpmerge.txt
 
-cat i-2.txt i-3.txt > i-mergd2.txt
-cat i-mergd2.txt | grep -v '^!' | grep -v '^！' | grep -v '^# ' | grep -v '^# ' | grep -v '^\[' | grep -v '^@@' > i-tmpp2.txt
-sort -n i-tmpp2.txt | uniq > i-tmp3.txt
-
-python rule.py i-tmp2.txt
-
-cat i-tmp2.txt | grep \
--e "^#" \
--e "#@#" \
-> "CSS.txt"
 cat "abpmerge.txt" | grep \
 -e "scriptlet" \
 -e "##+js" \
