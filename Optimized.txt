@@ -179,7 +179,6 @@
 ###WP-cookie-info
 ###___ndtvpushdiv
 ###__cookies_
-###__ic-notice
 ###__next > div.absolute.inset-0.w-full.h-screen.z-\[99999\]
 ###__next > div[style="position:fixed;z-index:9999;top:16px;left:16px;right:16px;bottom:16px;pointer-events:none"]
 ###_evidon_banner
@@ -257,6 +256,7 @@
 ###ad-box
 ###ad-box-1
 ###ad-box-2
+###ad-btm
 ###ad-carousel
 ###ad-code
 ###ad-container-inner
@@ -367,6 +367,7 @@
 ###adFooter
 ###adFrame
 ###adHeading
+###adHeightstory
 ###adHome
 ###adIframe
 ###adLayer
@@ -397,7 +398,6 @@
 ###adWrap
 ###adWrapper
 ###ad_1
-###ad_160
 ###ad_2
 ###ad_3
 ###ad_300:not([style^="position: absolute; left: -5000px"])
@@ -491,6 +491,7 @@
 ###ad_right_box
 ###ad_rightslot
 ###ad_row
+###ad_short
 ###ad_sidebar
 ###ad_sidebar1
 ###ad_sidebar_1
@@ -754,7 +755,6 @@
 ###adverticum_r_side_container
 ###advertise
 ###advertise-here
-###advertisement-content
 ###advertisement-text
 ###advertisement1
 ###advertisementTop
@@ -918,6 +918,7 @@
 ###block-cookie_policy-0
 ###block-inf-eu-cookie-cookie-disclaimer
 ###block-menu-menu-social-menu
+###block-menu-menu-social-networks
 ###block-ridiculouslyresponsivesocialsharebuttons
 ###block-social
 ###block-socialfooter
@@ -1037,6 +1038,7 @@
 ###chp_ads_blocker-modal
 ###chp_ads_blocker-overlay
 ###ci-rodo
+###ciasteczka-info
 ###ciastka
 ###ck-cookie-statement
 ###ckWrap.ckW
@@ -1093,6 +1095,7 @@
 ###consent.consent
 ###consentBanner
 ###consentDialog
+###consentOverlay
 ###consentWrapper
 ###consent_blackbar
 ###consentpopup
@@ -1152,7 +1155,6 @@
 ###cookie-compliance-bottom-overlay
 ###cookie-compliance-container
 ###cookie-compliant
-###cookie-con-head
 ###cookie-confirm
 ###cookie-consent
 ###cookie-consent--js
@@ -1238,6 +1240,7 @@
 ###cookie-notification-bar
 ###cookie-notification-wrapper
 ###cookie-notifier
+###cookie-notify
 ###cookie-opt-in
 ###cookie-opt-in-footer
 ###cookie-optout
@@ -1267,11 +1270,11 @@
 ###cookie-required
 ###cookie-ribbon
 ###cookie-settings-container
-###cookie-settings-wrapper
 ###cookie-settings.cookie-settings
 ###cookie-site-container
 ###cookie-site-container-box
 ###cookie-slide
+###cookie-spacer
 ###cookie-statement
 ###cookie-terms
 ###cookie-text
@@ -1463,8 +1466,8 @@
 ###cookie_consent_container
 ###cookie_consent_div
 ###cookie_consent_manager_wrapper
+###cookie_consent_notification
 ###cookie_consent_outer
-###cookie_container
 ###cookie_content
 ###cookie_dialog
 ###cookie_directive_container
@@ -1727,8 +1730,8 @@
 ###cookies_popup_container
 ###cookies_warning
 ###cookiesadv
+###cookiesalert
 ###cookiesbox
-###cookiesc
 ###cookiesck
 ###cookiesck_accept
 ###cookiesck_overlay
@@ -1771,6 +1774,7 @@
 ###cookis-bg
 ###cookit
 ###cookpol
+###cpnb_manager_wrap_close_bg
 ###credential_picker_container
 ###credential_picker_iframe
 ###crestashareicon
@@ -1978,6 +1982,7 @@
 ###facebook-likebox-wrap
 ###facebook-link
 ###facebook-share
+###facebook-widget
 ###facebookIcon
 ###facebookLike
 ###facebookLikeButton
@@ -2087,7 +2092,6 @@
 ###footerConnect
 ###footerCookie
 ###footerCookieArticle
-###footerCookiePolicy
 ###footerFollow
 ###footerNewsletter
 ###footerSocial
@@ -2217,6 +2221,7 @@
 ###gotoTop
 ###gototop:not(body)
 ###gp-to-top
+###gpc-lgpd
 ###gpdrBannerAside
 ###gpe-cookies-warn
 ###gpt-ad-1
@@ -2226,13 +2231,13 @@
 ###gpt-instory-ad
 ###gpt-leaderboard-ad
 ###gpt-mpu
-###gpt-poster
 ###gpt-sticky
 ###gritter-notice-wrapper
 ###gtm_privacy
 ###halfpagead
 ###have-a-cookie
 ###head-ad
+###head-ad-text-wrap
 ###headAd
 ###head_ad
 ###headad
@@ -2245,7 +2250,6 @@
 ###header-ads-holder
 ###header-banner-ad
 ###header-facebook-social-link
-###header-gdpr
 ###header-info-cookie
 ###header-share
 ###header-social
@@ -2253,6 +2257,7 @@
 ###header-social-links
 ###header-youtube-social-link
 ###headerAd
+###headerAdBackground
 ###headerAdContainer
 ###headerAds
 ###headerCookieLaw
@@ -2641,12 +2646,12 @@
 ###pCookieWarning
 ###page-advice-cookie
 ###page-go-up
-###page-share
 ###pageshare
 ###panel-ad
 ###panel-cookies
 ###pause-ads
 ###pauseAd
+###pb_cookie_consent
 ###pc-cookie-notice
 ###pc-div-gpt-ad_728-3
 ###pecr-compliance-banner
@@ -2682,6 +2687,7 @@
 ###pojo-scroll-up
 ###policyConsent
 ###politicaCookies
+###polityka-cookie
 ###polityka-cookies
 ###polityka_cookies
 ###politykacooki
@@ -2709,7 +2715,6 @@
 ###post-ad
 ###post-ads
 ###post-social
-###postAd
 ###pp_cookie_consent
 ###ppsPopupBgOverlay
 ###pr_ad
@@ -2784,7 +2789,6 @@
 ###rbiCookiePolicy_pushDownBoxWrapper
 ###recent_sales_ticker
 ###recommendAdBox
-###rectAd
 ###rectangleAd
 ###redim-cookiehint-bottom
 ###redim-cookiehint-modal
@@ -2961,7 +2965,6 @@
 ###sharing-options
 ###sharing-sidebar
 ###sharingBlock
-###sharing_bar
 ###sharing_buttons
 ###sharingfooter
 ###shop-cookie
@@ -3036,6 +3039,7 @@
 ###sky_ad
 ###skyads
 ###skyadwrap
+###skybox-ad
 ###skycom-cookie-wrapper
 ###skyscraper-ad
 ###skyscraperAds
@@ -3109,7 +3113,6 @@
 ###social-sharing-buttons
 ###social-sidebar
 ###social-slider
-###social-sticky
 ###social-text
 ###social-tools-panel
 ###social-vertical
@@ -3169,7 +3172,6 @@
 ###social_top
 ###social_twitter
 ###social_widget
-###social_widget-4
 ###socialbar
 ###socialblock
 ###socialbookmarks
@@ -3427,6 +3429,7 @@
 ###user-cookie-message
 ###user_optin_banner
 ###usercookieshow
+###usocookies
 ###usrConsent
 ###usrcookies
 ###v-cookielaw
@@ -3453,7 +3456,6 @@
 ###visilabs_web_push_perm_box
 ###vp-js-cookies__notice
 ###vscookieAlertCont
-###vtrick-pro-cookie-ify
 ###vvc_cookie
 ###w2b-StoTop
 ###warn-cookies-area
@@ -3580,6 +3582,7 @@
 ##.CookieChoiceContainer
 ##.CookieConsent-Wrapper-BackgroundBox
 ##.CookieConsent:not(body):not(html)
+##.CookieConsentBanner
 ##.CookieConsentOverlay
 ##.CookieDirectiveDisplay
 ##.CookieDirectiveHeight
@@ -3742,6 +3745,7 @@
 ##.__cookieNotice
 ##._ads
 ##._ap_apex_ad
+##._cookie-bar
 ##._gdpr-notify-header
 ##._iph_cp_standalone
 ##._popIn_recommend_article_ad
@@ -4005,6 +4009,7 @@
 ##.ad-header
 ##.ad-header-container
 ##.ad-heading
+##.ad-here
 ##.ad-hero
 ##.ad-hint
 ##.ad-ho
@@ -4074,6 +4079,7 @@
 ##.ad-mod
 ##.ad-module
 ##.ad-mpu
+##.ad-mpu-middle
 ##.ad-mpu-plus-top
 ##.ad-mrec
 ##.ad-native
@@ -4202,6 +4208,7 @@
 ##.ad-top
 ##.ad-top-728
 ##.ad-top-banner
+##.ad-top-billboard
 ##.ad-top-container
 ##.ad-top-right-container
 ##.ad-top-wrapper
@@ -4263,7 +4270,6 @@
 ##.ad03
 ##.ad10
 ##.ad100
-##.ad1000
 ##.ad120
 ##.ad120x600
 ##.ad125
@@ -4450,6 +4456,7 @@
 ##.ad_caption
 ##.ad_center
 ##.ad_choice
+##.ad_choices
 ##.ad_cl
 ##.ad_click
 ##.ad_code
@@ -4465,6 +4472,7 @@
 ##.ad_d_big
 ##.ad_desktop
 ##.ad_div
+##.ad_div_box
 ##.ad_element
 ##.ad_feature
 ##.ad_float
@@ -4478,6 +4486,7 @@
 ##.ad_head
 ##.ad_header
 ##.ad_header_top
+##.ad_heading
 ##.ad_headline
 ##.ad_holder
 ##.ad_hover_href
@@ -4531,6 +4540,7 @@
 ##.ad_space
 ##.ad_spacer
 ##.ad_spot
+##.ad_square
 ##.ad_static
 ##.ad_table
 ##.ad_tag
@@ -4630,7 +4640,6 @@
 ##.addthis_inline_share_toolbox
 ##.addthis_jumbo_share
 ##.addthis_native_toolbox
-##.addthis_responsive_sharing
 ##.addthis_separator
 ##.addthis_sharing_toolbox
 ##.addthis_toolbox
@@ -4762,6 +4771,7 @@
 ##.ads-margin
 ##.ads-marker
 ##.ads-middle
+##.ads-mini
 ##.ads-mobile
 ##.ads-module
 ##.ads-movie
@@ -4998,6 +5008,7 @@
 ##.adspace
 ##.adspace-widget
 ##.adspace2
+##.adspace_top
 ##.adspop
 ##.adspost
 ##.adspot
@@ -5433,7 +5444,6 @@
 ##.article-socials
 ##.article-sponsor
 ##.article-taboola
-##.article-title-share
 ##.article-top-ad
 ##.articleADbox
 ##.articleAd
@@ -5789,6 +5799,7 @@
 ##.bot_ad
 ##.bottom-0.cookies
 ##.bottom-ad
+##.bottom-ad--bigbox
 ##.bottom-ad-box
 ##.bottom-ad-container
 ##.bottom-ad-wrapper
@@ -5977,6 +5988,7 @@
 ##.c_facebook
 ##.c_social-toolbar
 ##.caas-share-section
+##.cableads
 ##.cactus-header-ads
 ##.cactus-share-and-like
 ##.caja_ad
@@ -5993,7 +6005,6 @@
 ##.card--newsletter
 ##.card-ad
 ##.card-ads
-##.card-newsletter
 ##.card-share
 ##.cardAd
 ##.card__share
@@ -6021,22 +6032,18 @@
 ##.cc-notification
 ##.cc-onconsent-analytics
 ##.cc-onconsent-social
-##.cc-policy
-##.cc-policy-overlay
 ##.cc-window[aria-label="cookieconsent"]
 ##.cc_banner
 ##.cc_banner-wrapper
 ##.cc_container
 ##.cc_dialog.cc_css_reboot
 ##.cc_disclaimer_box
-##.ccc > .ccc-popup
 ##.ccc-widget
-##.ccdiv
+##.cclayerBottom
 ##.ccm-block-social-links
 ##.ccm_social_header
 ##.ccmcss_oic
 ##.ccpabar
-##.ccwrap
 ##.cdp-cookies-alerta
 ##.center-ad
 ##.centerAd
@@ -6054,7 +6061,6 @@
 ##.change-cookie-settings
 ##.channel-ad
 ##.channel_ad_2016
-##.checkCookie
 ##.checkout-share
 ##.chitika-ad
 ##.ci-rodo-footer
@@ -6091,6 +6097,7 @@
 ##.cnilContainer
 ##.cnilNotification
 ##.cnil_warning
+##.cnt-text-info-cookie
 ##.cnx-player-wrapper
 ##.co-cookies-disc-bar
 ##.col-ad
@@ -6154,6 +6161,7 @@
 ##.consumer-marketing-unit--article-mid-content
 ##.consumer-privacy-banner
 ##.cont-ad
+##.contCookie
 ##.cont_social
 ##.container > #cookie-law-info-bar
 ##.container--ad
@@ -6298,6 +6306,7 @@
 ##.cookie-info-banner
 ##.cookie-info-bar
 ##.cookie-info-container
+##.cookie-info-content
 ##.cookie-info-header
 ##.cookie-info-layer
 ##.cookie-info-modal
@@ -6484,6 +6493,7 @@
 ##.cookieInformation
 ##.cookieInside
 ##.cookieLaw:not(body):not(html)
+##.cookieLayer
 ##.cookieLegal
 ##.cookieLegalComp
 ##.cookieLegal_comp
@@ -6514,6 +6524,7 @@
 ##.cookiePopupContainer
 ##.cookiePrivacy
 ##.cookiePrompt
+##.cookieScript
 ##.cookieSettings
 ##.cookieStatement
 ##.cookieText
@@ -6529,6 +6540,8 @@
 ##.cookie__accept
 ##.cookie__background
 ##.cookie__banner
+##.cookie__block
+##.cookie__box
 ##.cookie__container
 ##.cookie__content
 ##.cookie__floating
@@ -6611,7 +6624,6 @@
 ##.cookieinfobannerWrapper
 ##.cookieinformation
 ##.cookiejar-content
-##.cookielaw-bottom
 ##.cookielaw-container
 ##.cookielaw:not(body):not(html)
 ##.cookielayer
@@ -6639,6 +6651,7 @@
 ##.cookies-allow
 ##.cookies-banner
 ##.cookies-banner-container
+##.cookies-banner__overlay
 ##.cookies-bar
 ##.cookies-block
 ##.cookies-bottom-banner
@@ -6678,12 +6691,12 @@
 ##.cookies-overlay
 ##.cookies-overlay-widget
 ##.cookies-panel
+##.cookies-pdpa
 ##.cookies-policy
 ##.cookies-policy-block
 ##.cookies-policy-popup
 ##.cookies-popin
 ##.cookies-popup
-##.cookies-popup-container
 ##.cookies-region
 ##.cookies-reminder
 ##.cookies-reminder-v2
@@ -6747,7 +6760,6 @@
 ##.cookies_bar
 ##.cookies_block
 ##.cookies_box
-##.cookies_cont
 ##.cookies_content
 ##.cookies_footer
 ##.cookies_info
@@ -6792,6 +6804,9 @@
 ##.cp-info-bar-container
 ##.cp-module-info_bar
 ##.cp-popup-overlay
+##.cpnb-inner
+##.cpnb-modal-show-fade-out
+##.cpnb-outer
 ##.crafty-social-buttons
 ##.crain-advertisement
 ##.cresta-share-icon
@@ -6800,6 +6815,7 @@
 ##.cs-share
 ##.cs-single-post-share
 ##.csbwfs-social-widget
+##.css--ad
 ##.ct-footer-socials
 ##.ct-header-socials
 ##.ct-share-box
@@ -6820,7 +6836,6 @@
 ##.custom_ads
 ##.custom_share
 ##.custom_social
-##.customer-info-block__coockie
 ##.cv2-wrapper
 ##.cwc-cookie-banner-ui-sdk
 ##.cwcookielaw
@@ -6842,6 +6857,7 @@
 ##.dc-cookie-consent
 ##.dc-cookie-control-toggler
 ##.dcmads
+##.ddc-social-share
 ##.dekra-gdpr
 ##.delayed-module.alert-cookie.alert
 ##.demand-supply
@@ -6922,6 +6938,7 @@
 ##.divCookieBar
 ##.divCookiePopUp
 ##.divCookiePopUpContainer
+##.divLiensSociaux
 ##.div_pop
 ##.divads
 ##.divascookies
@@ -7047,6 +7064,7 @@
 ##.epublishing-priority.epublishing-eu-cookies
 ##.es-badge-container
 ##.ess-share-text
+##.essb-flyin
 ##.essb-mobile-sharepoint
 ##.essb-social-followers-variables
 ##.essb-subscribe-form-content
@@ -7123,6 +7141,7 @@
 ##.facebook-banner
 ##.facebook-banner-wrapper
 ##.facebook-bg
+##.facebook-block
 ##.facebook-box
 ##.facebook-box-widget
 ##.facebook-follow
@@ -7510,6 +7529,7 @@
 ##.full_AD
 ##.fullbanner_ad
 ##.fullpage-ad
+##.fullsize-ad-square
 ##.fuse_social_icons_links
 ##.fusion-privacy-bar
 ##.fusion-sharing-box
@@ -7781,6 +7801,7 @@
 ##.header-adbox
 ##.header-adcode
 ##.header-ads
+##.header-ads-container
 ##.header-ads-wrap
 ##.header-ads-wrapper
 ##.header-adv
@@ -7920,6 +7941,7 @@
 ##.hyad
 ##.hyperAd
 ##.hz-consents-banner
+##.hz-visitor-consents
 ##.iAdserver
 ##.iCookie
 ##.ib-m-cookie-banner
@@ -8025,7 +8047,6 @@
 ##.ima-ad-container
 ##.image-advertisement
 ##.image-share
-##.image-social
 ##.image-viewer-ad
 ##.imageAd
 ##.img-social
@@ -8087,6 +8108,7 @@
 ##.inner-ad
 ##.inner-ad-section
 ##.inner-header-social
+##.inner-share-bar
 ##.inner-social
 ##.innerAds
 ##.innerBanner
@@ -8134,6 +8156,7 @@
 ##.ipsfocus_sTwitter
 ##.iqadlinebottom
 ##.iqadmarker
+##.is-active.cookie
 ##.is-active.cookies
 ##.is-ad
 ##.is-cookie-banner:not(body)
@@ -8477,6 +8500,7 @@
 ##.long-ads
 ##.loop_google_ad
 ##.lower-ad
+##.lrec-container
 ##.lsi-social-icons
 ##.lst-shrpst
 ##.lst-social
@@ -8632,7 +8656,6 @@
 ##.mh-social-nav
 ##.mi-cookie-banner
 ##.mid-ads
-##.mid-post-ad
 ##.midAd
 ##.midAdv-cont
 ##.midAdv-cont2
@@ -8649,8 +8672,10 @@
 ##.mini-share-post
 ##.miniad
 ##.mj-floating-ad-wrapper
+##.mk-header-social
 ##.mk_cookie_policy
 ##.mkd-share-link
+##.mkdf-social-icon-widget
 ##.mks_ads_widget
 ##.mks_social_widget
 ##.mm-ads-gpt-adunit
@@ -8915,7 +8940,6 @@
 ##.newspack_global_ad
 ##.nfy-ad
 ##.nfy-ad-wrapper
-##.nfy-cobo-ad
 ##.ng-star-inserted.cookie
 ##.ninja-recommend-block
 ##.nk-cookie-banner
@@ -9080,7 +9104,6 @@
 ##.pane-social-links
 ##.panel--social
 ##.panel-ad
-##.panel-advert
 ##.panel-cookie
 ##.panel-cookies
 ##.panel-share-networks
@@ -9352,6 +9375,7 @@
 ##.pw-button-email
 ##.pw-button-facebook
 ##.pw-button-twitter
+##.q-silent-consent
 ##.qb-cookielaw-bar
 ##.qlwapp-button
 ##.qt-sharepage
@@ -9378,14 +9402,15 @@
 ##.rambler-share
 ##.rb-cookie
 ##.rc-sponsored
+##.rc_social
 ##.rcom-freestar-ads-widget
 ##.rcom-social-site-footer
-##.rcshare
 ##.rdm-daac-notice-template
 ##.re-AdTop1Container
 ##.react-cookie-banner
 ##.react-share__ShareButton
 ##.react_share_icons
+##.ready-ad
 ##.rect_ad
 ##.rectad
 ##.rectangle-ad
@@ -9458,7 +9483,6 @@
 ##.rightAds
 ##.rightAdsFix
 ##.rightColAd
-##.rightColAdBox
 ##.rightColumnAd
 ##.right_ad
 ##.right_ad_1
@@ -9702,6 +9726,7 @@
 ##.share-count
 ##.share-counters
 ##.share-data
+##.share-desktop
 ##.share-dropdown
 ##.share-elements
 ##.share-email
@@ -9772,6 +9797,7 @@
 ##.share-on
 ##.share-open-button
 ##.share-pannel
+##.share-pictures-overlay
 ##.share-pin
 ##.share-pinterest
 ##.share-pinterest-icon
@@ -9823,6 +9849,7 @@
 ##.share-twitter
 ##.share-twitter-icon
 ##.share-vertical
+##.share-via-facebook
 ##.share-viber
 ##.share-video
 ##.share-weibo
@@ -10165,7 +10192,6 @@
 ##.single-social-button-email
 ##.single-social-wrap
 ##.single-top-ad
-##.singleAd
 ##.singleSocialShares
 ##.single__floating-share
 ##.single__outbrain
@@ -10233,7 +10259,6 @@
 ##.smartmag-widget-newsletter
 ##.smile-prompt-frame-container
 ##.smn-new-gpt-ad
-##.snigel-cmp-framework
 ##.sns-bar
 ##.sns-btn-wrap
 ##.sns-btns
@@ -10262,6 +10287,7 @@
 ##.soc-btn
 ##.soc-btns
 ##.socButtons
+##.socFbShare
 ##.soc_btn
 ##.soc_square
 ##.soc_tabs
@@ -10284,7 +10310,6 @@
 ##.social-area
 ##.social-area-syncer
 ##.social-aside
-##.social-background
 ##.social-badge
 ##.social-badges
 ##.social-banner
@@ -10341,7 +10366,6 @@
 ##.social-icon-link
 ##.social-icon-linkedin
 ##.social-icon-list
-##.social-icon-table
 ##.social-icon-twitter
 ##.social-icon-wrap
 ##.social-icon-wrapper
@@ -10449,6 +10473,7 @@
 ##.social-share-link
 ##.social-share-links
 ##.social-share-list
+##.social-share-options
 ##.social-share-overlay
 ##.social-share-product
 ##.social-share-sticky
@@ -10470,7 +10495,6 @@
 ##.social-sharing-btn
 ##.social-sharing-button
 ##.social-sharing-buttons
-##.social-sharing-item
 ##.social-sharing-link
 ##.social-sharing-top
 ##.social-sharing__link
@@ -10529,6 +10553,7 @@
 ##.socialLinksContainer
 ##.socialLinksNew
 ##.socialList
+##.socialLogo
 ##.socialMedia
 ##.socialMedia-linkedin
 ##.socialMediaBlock
@@ -10636,6 +10661,7 @@
 ##.socials-text
 ##.socials-widget
 ##.socials-wrap
+##.socials_box
 ##.socials_widget
 ##.socialshare
 ##.socialshare-wrapper
@@ -10659,7 +10685,6 @@
 ##.sp-scroll-up
 ##.speakol-widget
 ##.special-ads
-##.spicy-consent-wrapper
 ##.spons-link
 ##.sponsor-ads
 ##.sponsor-area
@@ -10800,7 +10825,6 @@
 ##.strip-ad
 ##.stwitter
 ##.style_k8mr7b-o_O-style_uhlm2
-##.styliumToTop
 ##.sub-ad
 ##.subAdBannerArea
 ##.subAdBannerHeader
@@ -11240,6 +11264,7 @@
 ##.videos-ad
 ##.view-ad
 ##.view-ads
+##.view-article-inner-ads
 ##.view-homepage-center-ads
 ##.view-id-ads
 ##.view-video-advertisements
@@ -11369,6 +11394,7 @@
 ##.widget_email-subscribers-form
 ##.widget_epcl_ads_fluid
 ##.widget_epcl_social
+##.widget_essbsocialfollowerscounterwidget
 ##.widget_eu_cookie_law_widget
 ##.widget_evolve_ad_gpt_widget
 ##.widget_facebook-like-box
@@ -11488,6 +11514,7 @@
 ##.yui3-socialbutton-content
 ##.yui3-widget-mask
 ##.z-cookie
+##.z-cookie-alert
 ##.zalo-share-button
 ##.zergnet-widget
 ##.zergnet-widget__header
@@ -11535,6 +11562,7 @@
 ##[data-at-selector="cookie-banner"]
 ##[data-block-type="ad"]
 ##[data-ccpa]
+##[data-cookie-name="cookiesDirective"]
 ##[data-cookie-number]
 ##[data-cookie-popup]
 ##[data-cookie-validity-days]
@@ -11803,6 +11831,7 @@
 ##a[href^="https://track.aftrk3.com/"]
 ##a[href^="https://track.wg-aff.com"]
 ##a[href^="https://trk.nfl-online-streams.club/"]
+##a[href^="https://twinrdsrv.com/"]
 ##a[href^="https://twitter.com/intent/follow?"]
 ##a[href^="https://twitter.com/intent/tweet?"]
 ##a[href^="https://vo2.qrlsx.com/"]
@@ -11822,7 +11851,6 @@
 ##a[href^="https://www.financeads.net/tc.php?"]
 ##a[href^="https://www.geekbuying.com/dynamic-ads/"]
 ##a[href^="https://www.googleadservices.com/pagead/aclk?"] > img
-##a[href^="https://www.highperformancecpmgate.com/"]
 ##a[href^="https://www.infowarsstore.com/"] > img
 ##a[href^="https://www.linkedin.com/cws/share?"]
 ##a[href^="https://www.linkedin.com/shareArticle?"]
@@ -11955,11 +11983,11 @@
 ##cookie-notice
 ##cookie-policy
 ##cookie-warning
+##cookies-consent
 ##dialog[data-controller="common--cookies--alert"]
 ##dile-cookies-consent
 ##display-ad-component
 ##display-ads
-##div#NewsletterPromo
 ##div#accept-cookie
 ##div#back_to_top
 ##div#cc_container
@@ -12021,10 +12049,8 @@
 ##div.cookie-consent-block
 ##div.cookie-consent-overlay
 ##div.cookie-consent-popup
-##div.cookie-content
 ##div.cookie-details
 ##div.cookie-div
-##div.cookie-header
 ##div.cookie-info
 ##div.cookie-notice
 ##div.cookie-notice-consent
@@ -12033,6 +12059,8 @@
 ##div.cookie-notification-wrapper
 ##div.cookie-policy
 ##div.cookie-policy-banner
+##div.cookie-policy-info
+##div.cookie-policy-info--center
 ##div.cookie-show
 ##div.cookie-visible
 ##div.cookie-warn
@@ -12049,7 +12077,6 @@
 ##div.cookiebanner
 ##div.cookiebar
 ##div.cookiebox
-##div.cookieconsent
 ##div.cookienotice
 ##div.cookies--visible
 ##div.cookies-banner
@@ -12065,7 +12092,6 @@
 ##div.cookies_pop
 ##div.cookiesection
 ##div.eu-cookie
-##div.euconsent
 ##div.eupopup
 ##div.ezmob-footer
 ##div.fadeInDown[id$="____equal"][class$="____equal"]
@@ -13466,6 +13492,8 @@
 /cookie/klaro-config-de.js
 /cookie/klarox.js
 /cookie/policy-
+/cookie/require-opt-in.js
+/cookie/support-opt-in.js
 /cookieAgreement.js
 /cookieBox.js
 /cookieBubble.min.js
@@ -13538,7 +13566,6 @@
 /cookieconsent.js$domain=wedos.com|scssoft.com|umino.io|sklep.ledlumen.pl
 /cookieconsent.latest.min.js
 /cookieconsent.min.$~stylesheet
-/cookieconsent.umd.js
 /cookieconsent/*
 /cookieconsent?
 /cookieconsent_
@@ -13815,6 +13842,7 @@
 /fontyukle.net\/js\/\w+.js/$domain=fontyukle.net
 /footer-ad.$~script
 /footer-newsletter.jpg
+/footer-newsletter.js
 /footer_ad.js$script
 /fox/plugins/aoa/js/aoa-functions.js^
 /fp-interstitial.js
@@ -13839,7 +13867,6 @@
 /fuckadblock.js$badfilter
 /fuckadblock.min.js$badfilter
 /full-page-script.js$script
-/funcript*.php?pub=
 /g12.js$domain=siteunblocked.info|theproxy.app
 /g4cookies.
 /ga_setup.js$3p
@@ -13896,7 +13923,7 @@
 /googleanalytics.js$3p
 /googleplay_135x40.png$domain=xn----etbbecbrbp5ahkja1ae7v.xn--p1ai|kingisepp-today.ru
 /gpt-prebid.js$script
-/gpt.js$script,xmlhttprequest
+/gpt.js$script
 /gpt_ads-public.js$script
 /greenoaks.gif?
 /gs_informerClient.min.$third-party
@@ -14548,6 +14575,7 @@
 /site=*/size=*/viewid=
 /site=*/viewid=*/size=
 /size=*/random=*/viewid=
+/skin/ad/*$image,script
 /skin/adv/*$~xmlhttprequest
 /sl/assetlisting/?
 /slider_ad.js$script
@@ -14567,6 +14595,7 @@
 /snow.min.js
 /snow/snow.js
 /snowfall-master.min.js
+/snowfall.jquery.js
 /snowfall.jquery.min.js
 /snowstorm-min.js
 /snowstorm.js
@@ -14684,7 +14713,6 @@
 /twitter-footer-
 /twitter-v2.png
 /twitter_follow.jpg
-/twitter_footer.png
 /twitter_header.png
 /tydal-popups-email-pop-ups-4/assets/pop-app-embed.js
 /tz-nwslttr.js
@@ -14710,6 +14738,7 @@
 /vast-im.js$script
 /vast-new/src/videojs-preroll.js$script
 /vast.js$domain=noodlemagazine.com|mat6tube.com
+/vast/?zid=
 /vast/?zid=$xhr,3p
 /vendor/*/plugins/advert/js/shut-blocker.js$domain=kamudanhaber.net|yenimalatya.com.tr|habervakti.com|medya28.com|milliirade.com|kanalmaras.com
 /vendors~ads.
@@ -15043,7 +15072,6 @@
 123unblock.*##+js(acs, adcashMacros)
 123unblock.*##+js(acs, atob, decodeURIComponent)
 12punto.com.tr##.content > div.popup:has(> div.popup-content a[href^="https://12punto.com.tr/cerez-politikasi"])
-12punto.com.tr,athina984.gr,pchome.com.tw,bayburtmanset.com,tele1.com.tr,dealabs.com,pcquest.com,tko.pl,generacionxbox.com,menemenhaber.com.tr,matricedigitale.it,armyrecognition.com,analyticsindiamag.com,blocktrends.com.br,investing.com,studyfinds.org,trhaber.com,avgi.gr,deccanherald.com,aksam.com.tr,daily-bangladesh.com,noticiasautomotivas.com.br,turkiyegazetesi.com.tr,haberler.com,www-news18-com.cdn.ampproject.org,haberler.com,eurasiantimes.com,vesti-ua.net,hlavnespravy.sk,ictvietnam.vn,giga.de,news.itsfoss.com,fpsjp.net,bedavainternet.com.tr,buyuksivas.com,kredibankalar.com,akyazihaber.com,kamuajans.com,tamgaturk.com,tarsushaber.com,akademikpersonel.org,inegolonline.com,ordugazete.com,gunes.com,koinfinans.com,startefacts.com,donanimhaber.com,iha.com.tr,star.com.tr,karadenizgazete.com.tr,alem.com.tr,egepostasi.com,dunya.com,ulusal.com.tr,turkgun.com,cepkolik.com,teknoloji.org,lavnik.net,gadgets360.com,sokgazetesi.com.tr,fotospor.com,neowin.net,haberturk.com,memurlar.net,mirchi9.com,eltiempo.pe,vietnamnet.vn,sportskeeda.com,desidime.com,tuoitre.vn,clutchpoints.com,ithardware.pl,listelist.com,imparcialoaxaca.mx,elpais.com.co,minuto30.com,impact.ro,b1tv.ro,moviesroom.pl,techwafer.com,moonshot.news,radiokp.ru,brestcity.com,aykiri.com.tr,yenicaggazetesi.com.tr##a[href^="https://news.google.com/publications/"]
 12thman.com,acusports.com,atlantic10.com,auburntigers.com,baylorbears.com,bceagles.com,bgsufalcons.com,big12sports.com,bigten.org,bradleybraves.com,butlersports.com,cmumavericks.com,conferenceusa.com,cyclones.com,dartmouthsports.com,daytonflyers.com,dbupatriots.com,dbusports.com,denverpioneers.com,fduknights.com,fgcuathletics.com,fightinghawks.com,fightingillini.com,floridagators.com,friars.com,friscofighters.com,gamecocksonline.com,goarmywestpoint.com,gobison.com,goblueraiders.com,gobobcats.com,gocards.com,gocreighton.com,godeacs.com,goexplorers.com,goetbutigers.com,gofrogs.com,gogriffs.com,gogriz.com,golobos.com,gomarquette.com,gopack.com,gophersports.com,goprincetontigers.com,gopsusports.com,goracers.com,goshockers.com,goterriers.com,gotigersgo.com,gousfbulls.com,govandals.com,gowyo.com,goxavier.com,gozags.com,gozips.com,griffinathletics.com,guhoyas.com,gwusports.com,hailstate.com,hamptonpirates.com,hawaiiathletics.com,hokiesports.com,huskers.com,icgaels.com,iuhoosiers.com,jsugamecocksports.com,longbeachstate.com,loyolaramblers.com,lrtrojans.com,lsusports.net,morrisvillemustangs.com,msuspartans.com,muleriderathletics.com,mutigers.com,navysports.com,nevadawolfpack.com,niuhuskies.com,nkunorse.com,nuhuskies.com,nusports.com,okstate.com,olemisssports.com,omavs.com,ovcsports.com,owlsports.com,purduesports.com,redstormsports.com,richmondspiders.com,sfajacks.com,shupirates.com,siusalukis.com,smcgaels.com,smumustangs.com,soconsports.com,soonersports.com,themw.com,tulsahurricane.com,txst.com,txstatebobcats.com,ubbulls.com,ucfknights.com,ucirvinesports.com,uconnhuskies.com,uhcougars.com,uicflames.com,umterps.com,uncwsports.com,unipanthers.com,unlvrebels.com,uoflsports.com,usdtoreros.com,utahstateaggies.com,utepathletics.com,utrockets.com,uvmathletics.com,uwbadgers.com,villanova.com,wkusports.com,wmubroncos.com,woffordterriers.com,1pack1goal.com,bcuathletics.com,bubraves.com,goblackbears.com,golightsgo.com,gomcpanthers.com,goutsa.com,mercerbears.com,pirateblue.com,pirateblue.net,pirateblue.org,quinnipiacbobcats.com,towsontigers.com,tribeathletics.com,tribeclub.com,utepminermaniacs.com,utepminers.com,wkutickets.com,aopathletics.org,atlantichockeyonline.com,bigsouthnetwork.com,bigsouthsports.com,chawomenshockey.com,dbupatriots.org,drakerelays.org,ecac.org,ecacsports.com,emueagles.com,emugameday.com,gculopes.com,godrakebulldog.com,godrakebulldogs.com,godrakebulldogs.net,goeags.com,goislander.com,goislanders.com,gojacks.com,gomacsports.com,gseagles.com,hubison.com,iowaconference.com,ksuowls.com,lonestarconference.org,mascac.org,midwestconference.org,mountaineast.org,niu-pack.com,niuhuskies.com,nulakers.ca,oswegolakers.com,ovcdigitalnetwork.com,pacersports.com,rmacsports.org,rollrivers.com,samfordsports.com,uncpbraves.com,usfdons.com,wiacsports.com,alaskananooks.com,broncathleticfund.com,cameronaggies.com,columbiacougars.com,etownbluejays.com,gobadgers.ca,golancers.ca,gometrostate.com,gothunderbirds.ca,kentstatesports.com,lehighsports.com,lopers.com,lycoathletics.com,lycomingathletics.com,maraudersports.com,mauiinvitational.com,msumavericks.com,nauathletics.com,nueagles.com,nwusports.com,oceanbreezenyc.org,patriotathleticfund.com,pittband.com,principiaathletics.com,roadrunnersathletics.com,sidearmsocial.com,snhupenmen.com,stablerarena.com,stoutbluedevils.com,uwlathletics.com,yumacs.com,collegefootballplayoff.com,csurams.com,cubuffs.com,gobearcats.com,gohuskies.com,mgoblue.com,osubeavers.com,pittsburghpanthers.com,rolltide.com,texassports.com,thesundevils.com,uclabruins.com,wvuathletics.com,wvusports.com,arizonawildcats.com,calbears.com,cuse.com,georgiadogs.com,goducks.com,goheels.com,gostanford.com,insidekstatesports.com,insidekstatesports.info,insidekstatesports.net,insidekstatesports.org,k-stateathletics.com,k-statefootball.net,k-statefootball.org,k-statesports.com,k-statesports.net,k-statesports.org,k-statewomenshoops.com,k-statewomenshoops.net,k-statewomenshoops.org,kstateathletics.com,kstatefootball.net,kstatefootball.org,kstatesports.com,kstatewomenshoops.com,kstatewomenshoops.net,kstatewomenshoops.org,ksuathletics.com,ksusports.com,scarletknights.com,showdownforrelief.com,syracusecrunch.com,texastech.com,theacc.com,ukathletics.com,usctrojans.com,utahutes.com,utsports.com,wsucougars.com##+js(set, blockAdBlock, trueFunc)
 13377x.*##+js(acs, decodeURI, decodeURIComponent)
 1337x.*##+js(aopr, AaDetector)
@@ -17368,6 +17396,7 @@ bausep.de#@##notice-cookie-block
 bausep.de#@#.cookie-banner:not(body):not(html)
 bausep.de#@#.notice-cookie
 bavaria86.com,ransquawk.com,tf2r.com,trh.sk#@#.adverts
+bayburtmedya.com,12punto.com.tr,athina984.gr,pchome.com.tw,bayburtmanset.com,tele1.com.tr,dealabs.com,pcquest.com,tko.pl,generacionxbox.com,menemenhaber.com.tr,matricedigitale.it,armyrecognition.com,analyticsindiamag.com,blocktrends.com.br,investing.com,studyfinds.org,trhaber.com,avgi.gr,deccanherald.com,aksam.com.tr,daily-bangladesh.com,noticiasautomotivas.com.br,turkiyegazetesi.com.tr,haberler.com,www-news18-com.cdn.ampproject.org,haberler.com,eurasiantimes.com,vesti-ua.net,hlavnespravy.sk,ictvietnam.vn,giga.de,news.itsfoss.com,fpsjp.net,bedavainternet.com.tr,buyuksivas.com,kredibankalar.com,akyazihaber.com,kamuajans.com,tamgaturk.com,tarsushaber.com,akademikpersonel.org,inegolonline.com,ordugazete.com,gunes.com,koinfinans.com,startefacts.com,donanimhaber.com,iha.com.tr,star.com.tr,karadenizgazete.com.tr,alem.com.tr,egepostasi.com,dunya.com,ulusal.com.tr,turkgun.com,cepkolik.com,teknoloji.org,lavnik.net,gadgets360.com,sokgazetesi.com.tr,fotospor.com,neowin.net,haberturk.com,memurlar.net,mirchi9.com,eltiempo.pe,vietnamnet.vn,sportskeeda.com,desidime.com,tuoitre.vn,clutchpoints.com,ithardware.pl,listelist.com,imparcialoaxaca.mx,elpais.com.co,minuto30.com,impact.ro,b1tv.ro,moviesroom.pl,techwafer.com,moonshot.news,radiokp.ru,brestcity.com,aykiri.com.tr,yenicaggazetesi.com.tr##a[href^="https://news.google.com/publications/"]
 bayern-gegen-gewalt.de#%#//scriptlet('ubo-set-cookie.js', 'required', '1')
 bayernlb.de##+js(set-cookie, maps, true)
 bayernlb.de##+js(set-cookie, video, true)
@@ -21294,6 +21323,7 @@ edumaz.com##+js(nano-setInterval-booster, downloadButton, , 0.02)
 eduportal.bielsko.pl,psg.fr##+js(set-cookie, cookie_acceptance, 1)
 edurev.in##+js(set-constant, openOverlaySignup, noopFunc)
 edutopia.org##+js(no-setTimeout-if, signupPopup)
+eduvulcan.pl,sevdesk.de#@#.cookie-footer
 eegybest.xyz##+js(ra, href, #clickfakeplayer)
 eett.gr#@##cliSettingsPopup
 eett.gr#@##cookie-law-info-bar
@@ -22841,6 +22871,7 @@ forum.release-apk.com#%#(()=>{document.addEventListener("DOMContentLoaded",(()=>
 forum.release-apk.com#%#//scriptlet('abort-on-property-read', 'justDetectAdblock')
 forum.release-apk.com#%#//scriptlet('trusted-replace-node-text', 'script', 'window.getComputedStyle', '/\(\n.*?window\.getComputedStyle[\s\S]*?\) \?/', '(!0) ?')
 forum.release-apk.com#@#div[data-phpbb-ads-id]
+forum.robsoft.nu#%#//scriptlet('ubo-set-cookie.js', 'phpbb3_gc8h1_ca', '1', '', 'reload', '1')
 forum.xda-developers.com##a[href="/ad-free"]
 forum.xda-developers.com#@#.adonis-placeholder
 forumconstruire.com#?#.post_simple:has(.postsimple_pseudo:has-text(/promo/i))
@@ -22929,8 +22960,8 @@ fr.streamon-sport.ru,hoca4u.com##+js(acs, document.createElement, onerror)
 fr12.nl#@##cookies
 frag-machiavelli.de#@##cookie-law-info-bar
 frag.jetzt#@#app-cookies
+fragrantica.*,pc-builds.com##+js(no-setTimeout-if, /new Promise[\s\S]*?"throw"[\s\S]*?void 0/)
 fragrantica.com,fragrantica.ru##.text-center.cell.small-12.medium-6  > p > a[href^="/goto.php?id="]
-fragrantica.com,pc-builds.com##+js(no-setTimeout-if, /new Promise[\s\S]*?"throw"[\s\S]*?void 0/)
 francais.rt.com##a[href="https://t.me/rtfrance_officiel"] > video
 france.tv##+js(nowebrtc)
 franceprefecture.fr##+js(rmnt, script, deblocker)
@@ -30127,6 +30158,7 @@ nytimes.com###app > div > div[data-testid="onsite-messaging-unit-gateway"]:has(a
 nytimes.com##+js(no-fetch-if, api.theathletic.com/graphql body:/PostEvent|PostImpressions/)
 nytimes.com##+js(remove-attr, inert, #app)
 nytimes.com#?#.StoryBodyCompanionColumn > div[class^="css-"] > p[class^="css-"]:has(> a[href^="https://www.nytimes.com/subscription"])
+nytimes.com#@#iframe[width="100%"][height="120"]
 nytimes.com,nytimes3xbfgragh.onion##:xpath(//div[starts-with(@id, "dfp-ad")]/../..)
 nytimes.com,nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion#@##bottom-wrapper
 nzbstars.com##+js(acs, document.getElementById, adblocker)
@@ -33453,7 +33485,6 @@ settlersonlinemaps.com##+js(nostif, _0x)
 seura.fi,www.msn.com#@#.nativead
 sevdesk.at,sevdesk.de##+js(set-cookie, userConsent, false)
 sevdesk.at,sevdesk.de#@#.cookie-banner:not(body):not(html)
-sevdesk.de#@#.cookie-footer
 sevenjournals.com##+js(nobab)
 severeporn.com,watchmdh.to,watchporn.to,fuckcelebs.net,perverttube.com,sexlist.tv,mangovideo.club,cwtvembeds.com#%#//scriptlet('set-constant', 'flashvars.video_click_url', '')
 severpost.ru#?##content div.col:has(> div[style] > form[action="/subscribe.php"])
@@ -33540,6 +33571,7 @@ shaalaa.com#%#//scriptlet('prevent-fetch', 'www3.doubleclick.net')
 shabdkosh.com#?##content > div[class^="px-"] > div[class^="px-"]:has(> div.text-center > div.row > div[class^="col-"] > a[href^="https://play.google.com/store/apps/"])
 shabdkosh.com#?##ehresults > .row > .col-md-3 > .align-items-center:has(> div > a[href*="/apps"])
 shabdkosh.com#?##ehresults > .row > .col-md-3 > h2.ehr:contains(/^SHABDKOSH Apps$/)
+shabdkosh.com#?#.text-uppercase.text-center:contains(/^Advertisement$/)
 shabdkosh.com#?#div:not([class], [id]) > .text-center:has(> a[href="/payments/"]:only-child)
 shahid.mbc.net##+js(no-fetch-if, /gampad/ads?)
 shahid.mbc.net##+js(no-fetch-if, mparticle.com)
@@ -39810,7 +39842,6 @@ zzcartoon.com#%#//scriptlet('set-constant', 'flashvars.adv_pre_url', '')
 ||ais.th/asset_index2020/js/chat_and_shop.js
 ||aitradx.com/js/$script,3p
 ||ajansara.com/wp-content/plugins/wordpress-fire-push/public/js/wordpress-fire-push-public.js
-||akaihentai.com/fro_lo*.js
 ||akamaihd.net/*&affid
 ||akamaihd.net/vod/*$media,redirect=noopmp3-0.1s,domain=7tv.de
 ||akamaized.net/*.m3u8$xhr,3p,removeparam=csid,domain=nba.com
@@ -39827,7 +39858,6 @@ zzcartoon.com#%#//scriptlet('set-constant', 'flashvars.adv_pre_url', '')
 ||allcelebspics.com/assets/popunder.js
 ||allcoins.pw/js/ref.js
 ||alliptvlinks.com/tktk-content/plugins/$script,1p,replace=/\bconst now.+?, 100/clearInterval(timer);resolve();}, 100/gms
-||allkeyshop.com/blog/wp-content/uploads/*sale$image
 ||allmusic.com/blocker_check
 ||allrefs.net/js/cur.js
 ||alltracker.org/*/cookie-manager*/cookie_manager
@@ -40260,7 +40290,6 @@ zzcartoon.com#%#//scriptlet('set-constant', 'flashvars.adv_pre_url', '')
 ||blozoo.info/js/rsstool/
 ||blu.com.pl/modules/sohoshopcookies/
 ||blueconic.net/hearst.js$script,3p,redirect=noopjs
-||bluehost-cdn.com/media/partner/images/
 ||bmovies.*/bassets/js/jquery.watch.js$script,1p
 ||bmovies.*/sw.js$script,1p
 ||bmw.com/etc/clientlibs/wcmp/consentcontroller.fallback/epaas.consentdrawer.bundle
@@ -40359,7 +40388,6 @@ zzcartoon.com#%#//scriptlet('set-constant', 'flashvars.adv_pre_url', '')
 ||camseek.tv/live/live.php$frame,1p
 ||camsoda.com/promos/
 ||camstreams.tv/player/html.php?aid=*_html&video_id=*&*&referer
-||camvideos.tv/tpd.png
 ||camwhores.tv/contents/*/preroll$media,important,1p
 ||canalnet.tv/_templates/desktop/includes/js/net_alerts.js
 ||capital.com.tr/bundles/onesignal^
@@ -41241,6 +41269,7 @@ zzcartoon.com#%#//scriptlet('set-constant', 'flashvars.adv_pre_url', '')
 ||fapnow.xxx/bump/
 ||fappeningbook.com/assets/thefappening.png
 ||faptitans.com^*/rc/logo.jpg
+||faqwiki.us/ezais/
 ||faradars.org/explore?orderby=views&*&utm_medium=banner-kaprila^$doc,csp=script-src
 ||farmlend.ru/images/megi-app.jpg
 ||faselhd.center/v.mp4
@@ -41384,7 +41413,6 @@ zzcartoon.com#%#//scriptlet('set-constant', 'flashvars.adv_pre_url', '')
 ||free.webcompanion.com/*/index.php?*partner=*&campaign=$popup,doc
 ||freecomiconline.me/*.gif^$image
 ||freedom.send.cm/s.js$script,1p
-||freedownloadmanager.org/ajax/on_exit_v2.php
 ||freedownloadmanager.org/web/bannerinf.js
 ||freedrivemovie.com/wp-content/themes/dooplay/js/anti-adblock.js
 ||freehardcore.com/player/html.php^
@@ -41685,7 +41713,7 @@ zzcartoon.com#%#//scriptlet('set-constant', 'flashvars.adv_pre_url', '')
 ||googletagmanager.com/gtm.js^$domain=emedemujer.com|theweathernetwork.com
 ||googletagmanager.com/ns.html$redirect=noop.js
 ||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices_gpt.js,domain=diep.io
-||googletagservices.com/tag/js/gpt.js$script,redirect=noop.js,domain=hostednovel.com|getemoji.com|concertarchives.org|mouse-sensitivity.com|thisisanfield.com|titantv.com|baeldung.com|creaders.net|virtualpiano.net|phoronix.com|androidheadlines.com|myabandonware.com|gamerescape.com|knowt.com|lse.co.uk|thenation.com|smithsonianmag.com|flightconnections.com|adsoftheworld.com|camelcamelcamel.com|emojipedia.org|boingboing.net|flightaware.com|pc-builds.com|fragrantica.com
+||googletagservices.com/tag/js/gpt.js$script,redirect=noop.js,domain=hostednovel.com|getemoji.com|concertarchives.org|mouse-sensitivity.com|thisisanfield.com|titantv.com|baeldung.com|creaders.net|virtualpiano.net|phoronix.com|androidheadlines.com|myabandonware.com|gamerescape.com|knowt.com|lse.co.uk|thenation.com|smithsonianmag.com|flightconnections.com|adsoftheworld.com|camelcamelcamel.com|emojipedia.org|boingboing.net|flightaware.com|pc-builds.com|fragrantica.*
 ||googletagservices.com/tag/js/gpt.js$script,xhr,redirect=googletagservices.com/gpt.js:5
 ||googleusercontent.com/*/s320/download-button-gif-$domain=loptelink.com
 ||googlevideo.com/initplayback?source=youtube&*&c=TVHTML5&oad=$xmlhttprequest,domain=youtube.com
@@ -41752,7 +41780,6 @@ zzcartoon.com#%#//scriptlet('set-constant', 'flashvars.adv_pre_url', '')
 ||hallway.netnaija.app/deliver.1.5.js$script,3p
 ||handelsblatt.com/*/empty.js$script,1p
 ||handyhuellen.de/consent/data/consent?
-||hanime.xxx/wp-content/cache/wpfc-minified/fggil735/fa9yi.js
 ||hansa-flex.at/*/vhs-assets-cookieapp.js
 ||hansa-flex.com/typo3temp/assets/vhs-assets-cookieapp.js
 ||haolam.de/includes/bioep.js
@@ -42440,7 +42467,6 @@ zzcartoon.com#%#//scriptlet('set-constant', 'flashvars.adv_pre_url', '')
 ||lib.csscloud.live/lib.js?$script,3p
 ||lib.dengage.com/p/push/$third-party
 ||lib.juweliere.de/cmp/*/juw-cmp.min.
-||libcdnjs.com/js/script.js
 ||libero.it/public/*/js/adv.min.js
 ||libertatea.ro/consent/cmpui-popup.js
 ||library.telefonica.de/*/components/contact-link/bundle.js
@@ -42507,7 +42533,6 @@ zzcartoon.com#%#//scriptlet('set-constant', 'flashvars.adv_pre_url', '')
 ||lowendbox.com/media/banner/$frame
 ||lpages.co/serve-leadbox/$third-party
 ||lrepacks.net/templates/biz-ideas/new_year_motnyay/script.js
-||lrvalstybe.lt/storage^*200x200$image
 ||ltn.hitomi.la/RaCtICanTi24.js$important
 ||ltn.hitomi.la/thlYeSta6.js$important
 ||ltwebstatic.com/*/assets/privacy-module.*.js
