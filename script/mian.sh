@@ -18,9 +18,7 @@ num=`cat i-tmp.txt | wc -l`
 
 # 添加标题和时间
 echo "[Adblock Plus 2.0]" >> i-tpdate.txt
-echo "! Title: ABP Merge Rules" >> i-tpdate.txt
-echo "! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，AdGuard移动横幅广告过滤器，10007自用规则，EasyList no Element Rules，EasylistChina，CJX'sAnnoyance，Adblock Warning Removal List" >> i-tpdate.txt
-echo "! Homepage: https://github.com/damengzhu/abpmerge" >> i-tpdate.txt
+echo "! Title: Scriptlet Rules" >> i-tpdate.txt
 echo "! Version: `TZ=UTC-8 date +"%Y-%m-%d %H:%M:%S"`" >> i-tpdate.txt
 echo "! Total count: $num" >> i-tpdate.txt
 cat i-tpdate.txt i-tmp.txt > abpmerge.txt
@@ -28,7 +26,6 @@ cat i-tpdate.txt i-tmp.txt > abpmerge.txt
 cat "abpmerge.txt" | grep \
 -e "scriptlet" \
 -e "##+js" \
--e "^#" \
 > "scriptlet.txt"
 
 # 删除缓存
