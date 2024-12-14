@@ -28,7 +28,7 @@ cat i-tpdate.txt i-tmp.txt > abpmerge.txt
 cat "abpmerge.txt" | grep \
 -e "scriptlet" \
 -e "##+js" \
--e "^#"
+-e "^#" \
 > "scriptlet.txt"
 
 # 删除缓存
