@@ -1,6 +1,7 @@
 #!/bin/sh
 
 # 下载规则
+curl -o i-1.txt https://filters.adtidy.org/ios/filters/3_optimized.txt
 curl -o i-2.txt https://filters.adtidy.org/ios/filters/2_optimized.txt
 curl -o i-3.txt https://filters.adtidy.org/extension/ublock/filters/14.txt
 curl -o i-4.txt https://cdn.jsdelivr.net/gh/uBlockOrigin/uAssetsCDN@main/filters/filters.min.txt
