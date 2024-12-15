@@ -1,6 +1,6 @@
 ! Title: Scriptlet Rules
-! Version: 2024-12-15 04:14:02
-! Total count: 145435
+! Version: 2024-12-15 16:16:45
+! Total count: 145365
 ##.ads_banner:not([style^="width: 32px"], [style^="width: 33px"], [style*="left: -43px"], [style*="-3"][style*="important"][style*="display: block;"], [style*="position: fixed"][style*="-188"], [style*="!important;"][style*="width:"][style*="height:"][style*="position"][style*="left:"][style*="top:"][style*="display"]):not(:empty)
 ##.stickyads:not([style^="width: 32px"], [style^="width: 33px"], [style*="left: -43px"], [style*="-3"][style*="important"][style*="display: block;"], [style*="position: fixed"][style*="-188"], [style*="!important;"][style*="width:"][style*="height:"][style*="position"][style*="left:"][style*="top:"][style*="display"]):not(:empty)
 ##[data-ad-manager-id]:not([style$="left: -10000px !important; top: -1000px !important;"]):not(.adsbygoogle)
@@ -4009,6 +4009,7 @@ cineb.app,f2movies.to,streameast.watch#%#//scriptlet("abort-current-inline-scrip
 cineb.rs##+js(aeld, mousedown, shown_at)
 cineb.rs##+js(nowoif)
 cineb.rs##+js(rmnt, script, shown_at)
+cineblog.it#$#body { margin-top: 0px !important;}
 cinecalidad.*##+js(set, playerAdSettings.adLink, '')
 cinecalidad.*##+js(set, playerAdSettings.waitTime, 0)
 cined.com#%#//scriptlet("set-constant", "ulp_noadb", "true")
@@ -4069,6 +4070,7 @@ ciudadgamer.com##+js(acs, atob, encodeURIComponent)
 civicx.com##+js(set-constant, Object.prototype.rellect_adblock_detector, false)
 civilenggforall.com##+js(aopr, blockAdBlock)
 civitai.com##+js(no-fetch-if, googlesyndication)
+civitai.com##div[id][class^="mantine-"].flex:has(a[href="/pricing"] img[alt="Please support civitai and creators by disabling adblock"]):style(min-height: 0px !important; visibility: collapse !important; padding: 0px !important;)
 cjr.org#$#html { overflow: auto !important; }
 ckk.ai##+js(nowoif)
 ckk.ai##+js(set, blurred, false)
@@ -20262,6 +20264,7 @@ theprodkeys.com#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
 theprotocol.it#$#body { overflow: auto !important; }
 thepythoncode.com#$#body { overflow: visible!important; padding-right: 0!important; }
 thepythoncode.com#$?#.modal:has(form[action="/subscribe"]) { display: none!important; }
+thequint.com#$#.content { margin-top: 160px!important; }
 theralphretort.com##+js(aopw, adBlockDetected)
 therealdeal.com###trd-header:style(top: 0 !important;)
 therealdeal.com##body[data-pushdown-enabled="true"]:style(margin-top: 0px !important;)
@@ -22586,6 +22589,7 @@ wearmedicine.com#$#html.modal--open { overflow: auto !important; position: stati
 weather.com##+js(abort-on-property-read, setNptTechAdblockerCookie)
 weather.com##+js(no-fetch-if, securepubads.g.doubleclick.net/pagead/ppub_config)
 weather.com##+js(set-constant, adBlockerReady, false)
+weather.day.az#$##navigation { top: 0!important; }
 weather.us#%#//scriptlet('set-constant', '__tcfapi', 'undefined')
 weatherpro.com#$#.cookie-container { display: none!important; }
 weatherpro.com#$#.no-cookie-accept { overflow: visible!important; }
